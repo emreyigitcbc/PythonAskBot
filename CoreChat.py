@@ -144,7 +144,7 @@ def AskBot(isitfirst, message):
                         change2 = random.choice(lineddata["answer2"])
                         changer = ""
                         changer2 = ""
-                        if "bos" in lineddata["code"]:
+                        if "empty" in lineddata["code"]:
                             changer = change
                             changer2 = change2
                         elif lineddata["code"] == "first":

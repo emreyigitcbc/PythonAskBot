@@ -168,7 +168,7 @@
   ],
   "Lined": [
     {
-      "code": "son",
+      "code": "last",
       "key": [
         "ismin ne",
         "nesin",
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "code": "bos",
+      "code": "last",
       "key": [
         "nasılsın",
         "naptın"
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "code": "ilk",
+      "code": "first",
       "key": [
         "yerim seni",
         "sana bayılıyorum",
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "code": "bos",
+      "code": "empty",
       "key": [
         "napıyon",
         "napıyorsun"
