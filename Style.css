@@ -1,0 +1,29 @@
+QWidget {
+    background: qlineargradient(spread:pad, x1:0, y1:1, x2:1, y2:0, stop:0 #0277BD, stop: 1.0 #B3E5FC); color: #FAFAFA; font-size: 16px; font-family: Arial; padding: 0; border: 2px solid black;
+}
+QLabel[Title=true] {
+    font-size: 50px;
+    border-radius: 15px;
+}
+QLabel[Chat=true] {
+    font-family: 'Verdana', Arial;
+    border: none;
+    background: rgba(0,0,0,.0);
+    color: black;
+    padding: 30px;
+    border-radius: 15px;
+}
+QScrollArea{
+    background: rgba(0,0,0,.0);
+    border: 2px solid black;
+    border-radius: 15px;
+    overflow-x: none;
+    overflow-y: auto;
+}
+QLineEdit {
+    background: rgba(0,0,0,.0); border: 2px solid black; border-radius: 15px; color: #000; font-size: 16px; padding: 5px;
+    font-family: 'Verdana', Arial;
+}
+QLineEdit:hover {
+    background: rgba(0,0,0,.0); border: 2px solid #222; border-radius: 15px; color: #000; font-size: 14px; padding: 5px;
+}

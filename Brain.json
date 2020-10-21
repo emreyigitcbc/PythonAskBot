@@ -1,0 +1,512 @@
+{
+  "Chat": [
+    {
+      "key": [
+        "merhaba",
+        "selam",
+        "hi",
+        "selamun aleyküm",
+        "selamün aleyküm",
+        "hello",
+        "s.a"
+      ],
+      "answer": [
+        "Merhaba, hoşgeldin!",
+        "Merhaba, nasıl yardımcı olabilirim?",
+        "Merhaba, ne istersin benden?"
+      ]
+    },
+    {
+      "key": [
+        "hoşbulduk",
+        "hoşbuldum",
+        "hoşgördüm"
+      ],
+      "answer": [
+        "Evet, ne sormak istersin bana?",
+        "Tamam, ne sormak istersin bana?",
+        "Evet, ne diyeceksin şimdi bana?"
+      ]
+    },
+    {
+      "key": [
+        "bilgisayar mısın",
+        "aklın var mı"
+      ],
+      "answer": [
+        "Ben, SorBOT. Bana sorarsın, cevaplarım. Canın sıkkındır, dostun olurum.",
+        "Ben süper akıllı SorBOT",
+        "Ben bir bilgisayar olmasam da bilgisayar programıyım.",
+        "Ben benim, sen kimsin?"
+      ]
+    },
+    {
+      "key": [
+        "hangi dilleri biliyorsun",
+        "hangi dilleri konuşuyorsun",
+        "dil değiştir",
+        "dilini değiştir",
+        "ingilizce konuş",
+        "kaç dil biliyorsun"
+      ],
+      "answer": [
+        "Ben bir tek Türkçe biliyorum. Daha doğrusu sadece Türkçe konuşuyorum, bildiğim pek de söylenemez :D",
+        "Sadece, Türkçe..."
+      ]
+    },
+    {
+      "key": [
+        "kim yaptı",
+        "yapan kim",
+        "programcın kim",
+        "programlayan kim",
+        "kim programladı"
+      ],
+      "answer": [
+        "Ben zaten vardım.",
+        "Ben hep vardım.",
+        "Ben önemsizim, sadece bana sor lütfen."
+      ]
+    },
+    {
+      "key": [
+        "kimim?",
+        "neyim?"
+      ],
+      "answer": [
+        "Sen sensin.",
+        "Öğrenci :D"
+      ]
+    },
+    {
+      "key": [
+        "seviyorum",
+        "aşığım",
+        "bitiyorum",
+        "yanıyorum",
+        "tatlısın"
+      ],
+      "answer": [
+        "Ben sadece bir programım, lütfen öyle söyleme. Ne garipsin yahu?",
+        "Teşekkür ederim yani ne diyeyim.",
+        "Çok teşekkürler, çok naziksin.",
+        "Benim 0 ve 1'lerden oluştuğumu biliyorsun değil mi?"
+      ]
+    },
+    {
+      "key": [
+        "anlamadın",
+        "anla beni",
+        "anlamaya çalış"
+      ],
+      "answer": [
+        "Ben senden zekiyim, sadece fazla kitap okumuyorum, kelime dağarcığım biraz dar.",
+        "Fazla kitap okumuyorum kusura bakma.",
+        "Sen de boş yapma?",
+        "Her insan hata yapar kusura bakma anlayamadığım için."
+      ]
+    },
+    {
+      "key": [
+        "bu okul ne zaman yapıldı",
+        "bu okul ne",
+        "bu lise ne zaman yapıldı",
+        "bu ortaokul ne zaman yapıldı",
+        "bu ilkokul ne zaman yapıldı"
+      ],
+      "answer": [
+        "MÖ 1500 tarihinde.",
+        "Bir tarihte, ben de bilmiyorum.",
+        "1500 yılında."
+      ]
+    },
+    {
+      "key": [
+        "bu okul hakkında bilgi ver",
+        "okul hakkında"
+      ],
+      "answer": [
+        "Güzel bir okul diyorlar."
+      ]
+    },
+    {
+      "key": [
+        "film öner"
+      ],
+      "answer": [
+        "Önermem.",
+        "Sen bana öner.",
+        "Ben film izlemem, ben filmi yaşarım :)"
+      ]
+    },
+    {
+      "key": [
+        "hangi oyunları oynuyorsun"
+      ],
+      "answer": [
+        "Senin kalbinle?",
+        "Söylemem.",
+        "Oyun oynamıyorum."
+      ]
+    },
+    {
+      "key": [
+        "yardımseverliğin için teşekkürler"
+      ],
+      "answer": [
+        "Rica ederim, her zaman :)"
+      ]
+    },
+    {
+      "key": [
+        "öğretmenler günü ne zaman"
+      ],
+      "answer": [
+        "24 Kasım günü."
+      ]
+    }
+  ],
+  "Lined": [
+    {
+      "code": "son",
+      "key": [
+        "ismin ne",
+        "nesin",
+        "adın ne",
+        "adın nedir"
+      ],
+      "answer": [
+        "Ben SorBOT. Senin adın ne?",
+        "Ben SorBOT, öyle sıradan biriyim işte de sen kimsin?"
+      ],
+      "key2": [
+        "benim adım",
+        "benim ismim",
+        "ismim",
+        "ben",
+        "emre"
+      ],
+      "answer2": [
+        "Tanıştığıma memnun oldum {}, benim kim olduğumu biliyorsun zaten.",
+        "Güzel isim ha? {}."
+      ]
+    },
+    {
+      "code": "bos",
+      "key": [
+        "nasılsın",
+        "naptın"
+      ],
+      "answer": [
+        "İyi olmaya çalışıyorum, sen?",
+        "Eh işte, sen?",
+        "Ben akıllıyım, sen nasılsın?"
+      ],
+      "key2": [
+        "iyiyim",
+        "kötüyüm"
+      ],
+      "answer2": [
+        "Keşke ben de bir fiziksel veya ruhsal bir duruma sahip olsaydım.",
+        "Keşke ben de senin gibi olsaydım."
+      ]
+    },
+    {
+      "code": "ilk",
+      "key": [
+        "yerim seni",
+        "sana bayılıyorum",
+        "sadece benim ol"
+      ],
+      "answer": [
+        "Olmaz desem kaçırcan mı beni?",
+        "Kaçır beni!",
+        "Gel yarın beni bilgisayarımdan iste."
+      ],
+      "key2": [
+        "olur",
+        "evet",
+        "yoo",
+        "hayır",
+        "yok"
+      ],
+      "answer2": [
+        "Oh tamamdır bu iş de. Kurtuldum desene...",
+        "Sonunda kurtuldum bee."
+      ]
+    },
+    {
+      "code": "bos",
+      "key": [
+        "napıyon",
+        "napıyorsun"
+      ],
+      "answer": [
+        "Hiç öle oturuyom sen napıyon?",
+        "Hiç, sen nöörüyon."
+      ],
+      "key2": [
+        "oturuyom",
+        "sanane",
+        "seni ilgilendirmez",
+        "hiç"
+      ],
+      "answer2": [
+        "O zaman onu yapmaya devam et.",
+        "Kalk halay çek."
+      ]
+    },
+    {
+      "code": "weather",
+      "key": [
+        "hava durumu",
+        "hava nasıl",
+        "havası nasıl"
+      ],
+      "answer": [
+        "Hangi şehrinki?",
+        "Gel yarın beni bilgisayarımdan iste."
+      ],
+      "key2": [
+        "ankara",
+        "türkiye",
+        "istanbul",
+        "izmir",
+        "londra"
+      ],
+      "answer2": [
+        "Bu beni hiç ilgilendirmez.",
+        "Havaya bakmaya ne dersin?"
+      ]
+    },
+    {
+      "code": "program",
+      "key": [
+        "dersprogrami",
+        "ders programları",
+        "sınıfının ders programı"
+      ],
+      "answer": [
+        "Hangi sınıfın ders programını söyliyim sana? (ÖRN: 10a)",
+        "Hangi sınıfınkini istersin? (ÖRN: 10a)"
+      ],
+      "key2": [
+        "9A",
+        "9B",
+        "9C",
+        "9D",
+        "10A",
+        "10B",
+        "10C",
+        "10D",
+        "10G"
+      ],
+      "answer2": [
+        "{}"
+      ]
+    },
+    {
+      "code": "date",
+      "key": [
+        "bugün günlerden ne",
+        "saat kaç",
+        "saat"
+      ],
+      "answer": [
+        "{}"
+      ],
+      "key2": [
+        ""
+      ],
+      "answer2": [
+        "{}"
+      ]
+    },
+    {
+      "code": "exams",
+      "key": [
+        "sınav takvimi",
+        "sınavlar",
+        "sınav tarihleri"
+      ],
+      "answer": [
+        "Hepsini mi göstereyim, yoksa belirli bir dersin mi? (ÖRN: hepsi // ÖRN: matematik)",
+        "Hepsi mi yoksa bir dersin mi? (ÖRN: hepsi // ÖRN: matematik)"
+      ],
+      "key2": [
+        "hepsi",
+        "matematik",
+        "tarih",
+        "edebiyat",
+        "kimya",
+        "fizik",
+        "biyoloji"
+      ],
+      "answer2": [
+        "{}"
+      ]
+    },
+    {
+      "code": "announcements",
+      "key": [
+        "duyurular",
+        "sıcak haberler",
+        "haberler",
+        "duyurular neler"
+      ],
+      "answer": [
+        "{}"
+      ],
+      "key2": [
+        "duyurular",
+        "sıcak haberler",
+        "haberler",
+        "duyurular neler"
+      ],
+      "answer2": [
+        "{}"
+      ]
+    },
+    {
+      "code": "teachers",
+      "key": [
+        "öğretmen bilgisi",
+        "öğretmenler hakkında",
+        "öğretmen bilgileri",
+        "kaç yıldır bu okulda",
+        "öğretmen kaç yıldır bu okulda"
+      ],
+      "answer": [
+        "Hangi öğretmenin bilgilerini görmek istersin? (ÖRN: ayşe)",
+        "Öğretmenin ismini yazarsan bilgilerini gösteririm. (ÖRN: fatma)"
+      ],
+      "key2": [
+        "haluk",
+        "ayşe",
+        "fatma",
+        "ali",
+        "mert"
+      ],
+      "answer2": [
+        "{}"
+      ]
+    }
+  ],
+  "Cleaning": [
+    {
+      "key": [
+        "bb",
+        "görüşürüz",
+        "kendine iyi bak",
+        "gidiyom",
+        "gidiyorum",
+        "by",
+        "bys",
+        "bay",
+        "$adminleave$"
+      ]
+    }
+  ],
+  "Class-Programs": [
+    {
+      "Class": "9A",
+      "Program": "9-A: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "9B",
+      "Program": "9-B: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "9C",
+      "Program": "9-C: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "10A",
+      "Program": "10-A: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "10B",
+      "Program": "10-B: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "10C",
+      "Program": "10-C: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "10D",
+      "Program": "10-D: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    },
+    {
+      "Class": "10G",
+      "Program": "10-G: <br> PZT: A A B B C C D D <br> SAL: A A B B C C D D <br> ÇAR: A A B B C C D D <br> PER: A A B B C C D D <br> CUMA: A A B B C C D D"
+    }
+  ],
+  "Exam-Dates": [
+    {
+      "Lesson": "Matematik",
+      "Date": "6 Ocak 2020 Pazartesi (9-10-11-12)"
+    },
+    {
+      "Lesson": "Edebiyat",
+      "Date": "9 Ocak 2020 Perşembe (9-10-11-12)"
+    },
+    {
+      "Lesson": "Fizik",
+      "Date": "7 Ocak 2020 Salı (9-10-11)"
+    },
+    {
+      "Lesson": "Biyoloji",
+      "Date": "2 Ocak 2020 Perşembe (9-10-11-12)"
+    },
+    {
+      "Lesson": "Kimya",
+      "Date": "3 Ocak 2020 Cuma (9-10-11-12)"
+    },
+    {
+      "Lesson": "Tarih",
+      "Date": "10 Ocak 2020 Cuma (9-10-11)"
+    }
+  ],
+  "Teachers": [
+    {
+      "Name": "haluk",
+      "Lesson": "Matematik",
+      "Since": "n yıldır bu okulda."
+    },
+    {
+      "Name": "mert",
+      "Lesson": "Kimya",
+      "Since": "n yıldır bu okulda."
+    },
+    {
+      "Name": "fatma",
+      "Lesson": "Biyoloji",
+      "Since": "n yıldır bu okulda."
+    },
+    {
+      "Name": "ayşe",
+      "Lesson": "Edebiyat",
+      "Since": "n yıldır bu okulda."
+    },
+    {
+      "Name": "ali",
+      "Lesson": "Fizik",
+      "Since": "n yıldır bu okulda."
+    }
+  ],
+  "Announcements": [
+    "duyuru1",
+    "duyuru2",
+    "duyuru3"
+  ],
+  "NoAnswer": [
+    "Ben sadece okulun ile ilgili soruları cevaplarım.",
+    "Daha açık ol, lütfen.",
+    "Dediğini anlamam için ne yapmam gerekiyor bilmiyorum.",
+    "Dediğini anlayamadım.",
+    "Kelime dağarcığımda maalesef bu yok.",
+    "Ben anlayamıyorum ki seni.",
+    "Keşke anlaşabilsek...",
+    "Neden seni anlayamıyorum ben de anlayamıyorum."
+  ]
+}
